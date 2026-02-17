@@ -2,9 +2,7 @@
 
 **Trends and Predictors of Mesic Resource Productivity in Western U.S. Rangelands**
 
-<!-- BADGES -->
-<!-- UPDATE INSTRUCTIONS: Replace 'XXXXXX' below with your actual Zenodo DOI numbers -->
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18672909.svg)](https://doi.org/10.5281/zenodo.18672909)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 **Contact:** Kristopher Mueller ([kristopher.mueller@mso.umt.edu](mailto:kristopher.mueller@mso.umt.edu))
@@ -36,7 +34,7 @@ The project is organized into five main directories. To keep the repository ligh
 3.  Extract the file to your computer.
 
 ### Step 2: Download the Data (Zenodo)
-1.  Navigate to the **Zenodo Record**: [https://doi.org/10.5281/zenodo.XXXXXX](https://doi.org/10.5281/zenodo.XXXXXX)
+1.  Navigate to the **Zenodo Record**: [https://doi.org/10.5281/zenodo.18672909](https://doi.org/10.5281/zenodo.18672909)
 2.  Download the **Shifting_Resilience_Data_Bundle.zip**.
 3.  Extract this file. It contains two folders: `03_data_inputs` and `05_spatial_data`.
 4.  **Copy/Paste** these two folders into your main project folder, merging them with the existing structure.
