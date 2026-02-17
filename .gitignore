@@ -1,0 +1,18 @@
+.Rproj.user
+.Rhistory
+.RData
+.DS_Store
+
+# Ignore Data Folders (Hosted on Zenodo)
+03_data_inputs/*
+!03_data_inputs/.keep
+05_spatial_data/*
+!05_spatial_data/.keep
+
+# Ignore Outputs
+04_data_outputs/*
+!04_data_outputs/.keep
+
+# Ignore Zips and System files
+*.zip
+__MACOSX
