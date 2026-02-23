@@ -80,6 +80,7 @@ The project is organized into five main directories. To keep the repository ligh
 
 | Script | Description |
 | :--- | :--- |
+| `GEE00` | **Foundational Step:** Processes raw Landsat imagery into annual NDVI composites. **This is a precalculated asset in GEE02**|
 | `GEE01_Mesic_Mask_Creation.js` | Generates the binary mask for mesic resources. |
 | `GEE02_Mesic_Area_Calculation.js` | Calculates mesic area per ecoregion. |
 | `GEE03_NDVI_PDSI_TimeSeries...` | Extracts annual NDVI and PDSI values. |
